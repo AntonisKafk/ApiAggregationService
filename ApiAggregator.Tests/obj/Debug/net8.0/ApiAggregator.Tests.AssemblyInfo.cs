@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAggregator.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bbb5bd4458f16ba761f58cb6916f0ae7e1b4aa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b82615b60dca125010ae7fa60a297ababf285114")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAggregator.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAggregator.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

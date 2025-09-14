@@ -222,3 +222,4 @@ C:\Users\Athony\Desktop\projects\ApiAggregatorSolution\ApiAggregator.Tests\obj\D
 C:\Users\Athony\Desktop\projects\ApiAggregatorSolution\ApiAggregator.Tests\obj\Debug\net8.0\ApiAggregator.Tests.pdb
 C:\Users\Athony\Desktop\projects\ApiAggregatorSolution\ApiAggregator.Tests\obj\Debug\net8.0\ApiAggregator.Tests.genruntimeconfig.cache
 C:\Users\Athony\Desktop\projects\ApiAggregatorSolution\ApiAggregator.Tests\obj\Debug\net8.0\ref\ApiAggregator.Tests.dll
+C:\Users\Athony\Desktop\projects\ApiAggregatorSolution\ApiAggregator.Tests\obj\Debug\net8.0\ApiAggregator.Tests.sourcelink.json
