@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ApiAggregator.Controllers.AggregatedController",
+    "Method": "Get",
+    "RelativePath": "api/Aggregated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchTerm",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dateOrder",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataSources",
+        "Type": "System.Collections.Generic.List\u00601[[ApiAggregator.Models.DataSource, ApiAggregator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
